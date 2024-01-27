@@ -8,7 +8,7 @@ This is a simple calculator program written in Python that allows users to perfo
 
 1. Run the program by executing the script.
 ```Bash
-python calculator.py
+python_simple_calculator.py
 ```
 2. Enter the first and second numbers when prompted.
 
